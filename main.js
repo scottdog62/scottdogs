@@ -51,7 +51,7 @@ var fpsCount = 0;
 var fpsTime = 0;
 
 var heartImage = document.createElement("img");
-heartImage.src = "heartImage.png"
+heartImage.src = "HeartImage.png"
 var player = new Player();
 var keyboard = new Keyboard();
 
